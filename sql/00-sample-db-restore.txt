@@ -1,0 +1,3 @@
+﻿MS Wide World Importers sample database
+https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0
+backup file: https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImporters-Full.bak
